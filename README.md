@@ -1,5 +1,6 @@
 # SurperAlt
-这是一个脚本，参考了https://github.com/52fisher/panAI，可使用篡改猴，脚本猫等拓展进行安装
+这是一个脚本，参考了https://github.com/52fisher/panAI
+可使用篡改猴，脚本猫等拓展进行安装
 
 Alt + 网盘智能识别助手 - 脚本功能介绍
 📋 脚本概述
