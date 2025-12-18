@@ -5,7 +5,6 @@
 ## 💽 安装地址
 
 - **[安装地址（源地址）](https://raw.githubusercontent.com/boxniao/SurperAlt/refs/heads/main/SurperAlt.js)**
-- **[安装地址（jsdelivr镜像地址）](https://cdn.jsdelivr.net/gh/boxniao/SurperAlt/refs/heads/main/SurperAlt.js)**
 - **[安装地址（ghproxy镜像地址）](https://ghproxy.net/https://raw.githubusercontent.com/boxniao/SurperAlt/refs/heads/main/SurperAlt.js)**
 
 Alt + 网盘智能识别助手 - 脚本功能介绍
