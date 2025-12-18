@@ -1,5 +1,7 @@
 # SurperAlt
 这是一个脚本，参考了https://github.com/52fisher/panAI
+的2.1.9版本
+
 可使用篡改猴，脚本猫等拓展进行安装
 
 ## 💽 安装地址
